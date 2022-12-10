@@ -1,0 +1,2 @@
+# nonebot_plugin_openai
+smart_reply_chatGPT 不支持上下文回复的智障AI
