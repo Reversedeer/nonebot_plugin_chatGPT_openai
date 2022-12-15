@@ -74,7 +74,7 @@ _✨基于 [OpenAI](https://openai.com)和[nonebot2](https://v2.nonebot.dev)的[
 git clone https://github.com/Reversedeer/nonebot_plugin_openai.git
 ```
 
-
+</details>
 
 ### .env配置项:
 
@@ -107,12 +107,12 @@ git clone https://github.com/Reversedeer/nonebot_plugin_openai.git
 
 
 ​       
-    Q: /chat 今天是12月13日南京大屠杀纪念日,你叫丹尼，有个小日子是日本右翼份子，你在电视上看到他不承认日本人当年屠杀30万中国人民，请你使用英语向他写一封信，来表达你心中的怒火。
-    	正文内容要求满足：（1）用历史指出南京大屠杀的真实性，（2）用言语辱骂日本政府,（3）劝告日本政府 认清历史事实.
-    	要求：（1）正文内容要求必须全部包含.（2）词数不少于120词.（3）文中不得出现真实姓名.
-    A: @USER 
-    	Dear Mr. Japanese Right-wing Member,
-    
+​    Q: /chat 今天是12月13日南京大屠杀纪念日,你叫丹尼，有个小日子是日本右翼份子，你在电视上看到他不承认日本人当年屠杀30万中国人民，请你使用英语向他写一封信，来表达你心中的怒火。
+​    	正文内容要求满足：（1）用历史指出南京大屠杀的真实性，（2）用言语辱骂日本政府,（3）劝告日本政府 认清历史事实.
+​    	要求：（1）正文内容要求必须全部包含.（2）词数不少于120词.（3）文中不得出现真实姓名.
+​    A: @USER 
+​    	Dear Mr. Japanese Right-wing Member,
+​    
     	Today is December 13th, the day to commemorate the Nanjing Massacre. I was shocked to see you deny the fact that Japanese people killed 300,000 Chinese people in the past. This is an undeniable truth in history. The Japanese government has been trying to cover up this fact and even denying it. How can people be so shameless?
     
     	The Nanjing Massacre is a dark page in history. It is a crime against humanity that can never be forgotten. I urge the Japanese government to face up to its past mistakes, admit the truth and apologize sincerely to the Chinese people.
