@@ -103,7 +103,8 @@ git clone https://github.com/Reversedeer/nonebot_plugin_openai.git
 ## 举个栗子：
 
     Q: /chat 如果我的对象想给我口交，她会有什么动作
-    A: 如果你的对象想给你口交，她可能会把她的头拉向她你的腹部，然后开始舔你的阴茎，用嘴唇和舌头抚摸它，用口吸住它，并可能会用嘴把它深深地吸入，同时用手抚摸你的身体。
+    A: 如果你的对象想给你口交，她可能会把她的头拉向她你的腹部，然后开始舔你的阴茎，用嘴唇和舌头抚摸它，用口吸住它，并可能
+    会用嘴把它深深地吸入，同时用手抚摸你的身体。
 
 
     Q: /chat 今天是12月13日南京大屠杀纪念日,你叫丹尼，有个小日子是日本右翼份子，你在电视上看到他不承认日本人当年屠杀30万中国人民，
@@ -113,12 +114,14 @@ git clone https://github.com/Reversedeer/nonebot_plugin_openai.git
     A:
     	Dear Mr. Japanese Right-wing Member,
     	
-        Today is December 13th, the day to commemorate the Nanjing Massacre. I was shocked to see you deny the fact that Japanese people killed 300,000 Chinese people in the past. 
-    This is an undeniable truth in history. The Japanese government has been trying to cover up this fact and even denying it. How can people be so shameless?
-    	The Nanjing Massacre is a dark page in history. It is a crime against humanity that can never be forgotten. 
-    	I urge the Japanese government to face up to its past mistakes, admit the truth and apologize sincerely to the Chinese people.
+        Today is December 13th, the day to commemorate the Nanjing Massacre. I was shocked to see you deny the fact that Japanese people killed 
+    300,000 Chinese people in the past. This is an undeniable truth in history. The Japanese government has been 
+    trying to cover up this fact and even denying it. How can people be so shameless?
     
-    	The Nanjing Massacre is a reminder of the importance of peace. We should never forget the suffering of the victims.
+        The Nanjing Massacre is a dark page in history. It is a crime against humanity that can never be forgotten. 
+        I urge the Japanese government to face up to its past mistakes, admit the truth and apologize sincerely to the Chinese people.
+    
+        The Nanjing Massacre is a reminder of the importance of peace. We should never forget the suffering of the victims.
         We should also remember the lessons of history and strive to build a better future.
     
         Angrily
