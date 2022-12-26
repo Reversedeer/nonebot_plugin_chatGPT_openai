@@ -48,7 +48,7 @@ _✨基于 [OpenAI](https://openai.com)和[nonebot2](https://v2.nonebot.dev)的[
 
 
 
-    nb plugin install nonebot-plugin-openai
+    nb plugin install nonebot_plugin_chatGPT_openai
 
 </details>
 
@@ -57,13 +57,13 @@ _✨基于 [OpenAI](https://openai.com)和[nonebot2](https://v2.nonebot.dev)的[
     打开 nonebot2 项目的 `bot.py` 文件, 在其中写入
 
 
-    pip install nonebot-plugin-openai
+    pip install nonebot_plugin_chatGPT_openai
     
-    nonebot.load_plugin("nonebot_plugin_openai")
+    nonebot.load_plugin("nonebot_plugin_chatGPT_openai")
 
 在’pyproject.toml‘文件中写入
 
-    "nonebot_plugin_openai"
+    "nonebot_plugin_chatGPT_openai"
 
 </details>
 
@@ -71,7 +71,7 @@ _✨基于 [OpenAI](https://openai.com)和[nonebot2](https://v2.nonebot.dev)的[
 <summary>git clone</summary>
 
 ```
-git clone https://github.com/Reversedeer/nonebot_plugin_openai.git
+git clone https://github.com/Reversedeer/nonebot_plugin_chatGPT_openai.git
 ```
 
 </details>
