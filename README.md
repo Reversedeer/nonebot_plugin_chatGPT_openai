@@ -46,7 +46,7 @@ _✨基于 [OpenAI](https://openai.com)和[nonebot2](https://v2.nonebot.dev)的[
 <summary>pip</summary>
 
 
-    "pip install nonebot_plugin_chatGPT_openai"
+    pip install nonebot-plugin-chatGPT-openai
 
 
 打开 nonebot2 项目的 `bot.py` 文件, 在其中写入
