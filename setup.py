@@ -20,7 +20,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     packages=setuptools.find_packages(),
-    python_requires=">=3.7",
+    python_requires=">=3.8",
     install_requires = [
         'nonebot-adapter-onebot>=2.0.0-beta.1',
         'nonebot2>=2.0.0-beta.1',
