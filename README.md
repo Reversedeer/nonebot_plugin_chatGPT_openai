@@ -43,16 +43,6 @@ _✨基于 [OpenAI](https://openai.com)和[nonebot2](https://v2.nonebot.dev)的[
 ## 安装方式
 
 <details>
-<summary>使用 nb-cli 安装(推荐)</summary>
-在 nonebot2 项目的根目录下打开命令行, 输入以下指令即可安装
-
-
-
-    nb plugin install nonebot_plugin_chatGPT_openai
-
-</details>
-
-<details>
 <summary>pip</summary>
     打开 nonebot2 项目的 `bot.py` 文件, 在其中写入
 
